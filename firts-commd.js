@@ -1,4 +1,3 @@
-
 !(function (c, i, t) {
     var f,
     o = /^data-(.+)/,
